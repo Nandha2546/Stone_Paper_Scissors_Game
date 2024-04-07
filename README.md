@@ -6,13 +6,6 @@
 
 "Stone Paper Scissors" game built with React.js and framer motion and it is a PWA
 
-# Tech which I have Used
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![FRAMER](https://img.shields.io/badge/Framer-a2e?style=for-the-badge&logo=framer)
-![PWA](https://img.shields.io/badge/PWA-F6C915?style=for-the-badge&logo=pwa&logoColor=black)
-
 ## Follow the below instruction to run this project in your pc.👇
 
 ```
